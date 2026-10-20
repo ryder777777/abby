@@ -23,7 +23,7 @@
     "js-cookie": "^3.0.5"
   },
   "devDependencies": {
-    "@tryabby/tsconfig": "workspace:*",
+    "tsconfig": "workspace:*",
     "@types/js-cookie": "^3.0.3",
     "tsup": "^6.6.3",
     "typescript": "5.5.4",
