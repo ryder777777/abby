@@ -1,0 +1,5 @@
+{
+  "extends": "@tryabby/tsconfig/base.json",
+  "include": ["src", "tests"],
+  "exclude": ["dist", "build", "node_modules"]
+}
